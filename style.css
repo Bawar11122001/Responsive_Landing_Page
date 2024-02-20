@@ -58,6 +58,7 @@ html, body{
 #textcenter h1{
     font-size: 90px;
     font-weight: 900;
+    padding-top: 20px;
 }
 
 #textcenter p{
